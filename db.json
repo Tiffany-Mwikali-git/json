@@ -1,12 +1,75 @@
+
 {
-  "apiEndpoint" : [
+  "workouts": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": 1,
+      "exercise": "Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "day": "Monday"
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": 2,
+      "exercise": "Squats",
+      "sets": 4,
+      "reps": 12,
+      "day": "Tuesday"
+    },
+    {
+      "id": 3,
+      "exercise": "back-workouts",
+      "sets": 4,
+      "reps": 12,
+      "day": "Wednesday"
+    },
+    {
+      "id": 4,
+      "exercise": "abs",
+      "sets": 4,
+      "reps": 12,
+      "day": "Thursday"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "name": "Grilled chicken",
+      "calories": 600,
+      "protein": 40,
+      "carbs": 50,
+      "fats": 20,
+      "time": "after workout"
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "name": "steak and Rice",
+      "calories": 600,
+      "protein": 40,
+      "carbs": 50,
+      "fats": 20,
+      "time": "after workout"
+    },
+    {
+      "id": 3,
+      "day": "Wednesday",
+      "name": "Chicken curry",
+      "calories": 600,
+      "protein": 40,
+      "carbs": 50,
+      "fats": 20,
+      "time": "after workout"
+    },
+    {
+      "id": 4,
+      "day": "Thursday",
+      "name": "fish and ugali",
+      "calories": 400,
+      "protein": 37,
+      "carbs": 50,
+      "fats": 10,
+      "time": "after workout"
     }
   ]
 }
