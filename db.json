@@ -1,75 +1,36 @@
-
 {
-  "workouts": [
+  "posts": [
     {
-      "id": 1,
-      "exercise": "Bench Press",
-      "sets": 4,
-      "reps": 10,
-      "day": "Monday"
+      "id": "1",
+      "title": "My first Blog Post",
+      "date": "2025/04/20",
+      "summary": "This is a short introduction to my first blog post.",
+      "content": "Welcome to my blog! I'm Tiffany",
+      "image": "images/img1.jpg"
     },
     {
-      "id": 2,
-      "exercise": "Squats",
-      "sets": 4,
-      "reps": 12,
-      "day": "Tuesday"
+      "id": "2",
+      "title": "My second Blog Post",
+      "date": "2025/04/20",
+      "summary": "This is a short introduction to my first blog post.I start my day by running for 1 to 2 km.Take my breakfast and go to work",
+      "content": "Welcome to my blog!",
+      "image": "images/img1.jpg"
     },
     {
-      "id": 3,
-      "exercise": "back-workouts",
-      "sets": 4,
-      "reps": 12,
-      "day": "Wednesday"
+      "id": "3",
+      "title": "My third Blog Post",
+      "date": "2025/04/20",
+      "summary": "I love reading books that are related to finance, watching documetary and doing workouts including Yoga and pilates.",
+      "content": "Enjoy my blog!",
+      "image": "images/img1.jpg"
     },
     {
-      "id": 4,
-      "exercise": "abs",
-      "sets": 4,
-      "reps": 12,
-      "day": "Thursday"
-    }
-  ],
-  "meals": [
-    {
-      "id": 1,
-      "day": "Monday",
-      "name": "Grilled chicken",
-      "calories": 600,
-      "protein": 40,
-      "carbs": 50,
-      "fats": 20,
-      "time": "after workout"
-    },
-    {
-      "id": 2,
-      "day": "Tuesday",
-      "name": "steak and Rice",
-      "calories": 600,
-      "protein": 40,
-      "carbs": 50,
-      "fats": 20,
-      "time": "after workout"
-    },
-    {
-      "id": 3,
-      "day": "Wednesday",
-      "name": "Chicken curry",
-      "calories": 600,
-      "protein": 40,
-      "carbs": 50,
-      "fats": 20,
-      "time": "after workout"
-    },
-    {
-      "id": 4,
-      "day": "Thursday",
-      "name": "fish and ugali",
-      "calories": 400,
-      "protein": 37,
-      "carbs": 50,
-      "fats": 10,
-      "time": "after workout"
+      "title": "My cat",
+      "date": "23/06/2025",
+      "summary": "This is Woof my pet.I take her for evening walk everyday.She loves eating treats more than taking a bath.",
+      "content": "See my cat",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1C0XX0G2NSOp5mmXPK6gwcRaZdCdmm3AQopYkwtzWCqfsv_VN06S8YeJZKyT7CnEmqo286gVeCHSUI2T3h7Z3zA",
+      "id": "gf5Yf7v"
     }
   ]
 }
